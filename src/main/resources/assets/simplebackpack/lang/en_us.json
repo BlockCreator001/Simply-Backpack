@@ -1,0 +1,10 @@
+{
+  "item.simplebackpack.copper_backpack": "Copper Backpack",
+  "item.simplebackpack.iron_backpack": "Iron Backpack",
+  "item.simplebackpack.gold_backpack": "Gold Backpack",
+  "item.simplebackpack.diamond_backpack": "Diamond Backpack",
+  "item.simplebackpack.wooden_backpack": "Wooden Backpack",
+  "item.simplebackpack.netherite_backpack": "Netherite Backpack",
+  "item.simplebackpack.emerald_backpack": "Emerald Backpack",
+  "itemGroup.tabsimple_backpack": "Simple Backpack"
+}
